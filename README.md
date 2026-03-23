@@ -1,6 +1,8 @@
 # CS224W
 Stanford CS224W: Machine Learning with Graphs
 
+https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
+
 |Date|Lecture|Contents|
 |:------:|:-----:|:-----:|
 |2022. 07. 11. (월)|1|Introduction: Machine Learning for Graphs|
